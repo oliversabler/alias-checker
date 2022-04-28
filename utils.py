@@ -1,5 +1,5 @@
-def get_config_rows():
-    with open("url_config.txt") as f:
+def get_endpoints():
+    with open("endpoints.txt") as f:
         return f.readlines()
 
 
