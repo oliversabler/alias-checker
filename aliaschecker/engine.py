@@ -1,5 +1,5 @@
 import requests
-from utils import get_endpoints, url_resolver
+from aliaschecker.utils import get_endpoints, url_resolver
 
 
 def get_username_input():
